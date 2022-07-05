@@ -1,0 +1,80 @@
+<div class="section_info" id="p{sort:scode}">
+
+	
+
+    <div class="price_list">
+
+      <div class="price">
+
+        {pboot:list num=100 order=date}
+
+        <div class="price_item_box">
+
+
+        <div>
+
+
+          {pboot:sort scode=21}
+
+          <div class="flex">
+            <div class="info">
+                <div class="yanpi"> 
+                <div>
+                <a href="#price[list:id]" style="font-family: arial, helvetica, sans-serif;"> <h4>[list:title] </h4>      
+                <h4 class="shuangmou" style="font-family: arial, helvetica, sans-serif;font-weight: 600;">雙眼皮塑造&nbsp; &nbsp;&nbsp;</h4>
+                <p>
+                  <span style="font-size: 16px; font-family: arial, helvetica, sans-serif;">定位雙眼皮技術，打造明亮美目。</span><br><br>
+                </p>
+                </div>    
+               <div class="eye-ima"><img src="/static/upload/image/20211230/yandai1.jpg" alt=""></div>
+                    
+            </div>   
+                <p>
+                  <h4 style="font-family: arial, helvetica, sans-serif;font-weight: 600;">眼袋緊緻消脂術<br></h4>
+                  <span style="font-size: 16px; font-family: arial, helvetica, sans-serif;">改善眼袋情況，過程重新定位脂肪，撫平皺紋鬆散的眼部皮膚。</span>
+                </p>
+                <div class="eye-ima1"><img src="/static/upload/image/20211230/yandai1.jpg" alt=""></div>
+                <p class="wha-detail">    
+                    <span style="font-family: arial, helvetica, sans-serif;">詳情請WhatsApp或聯絡我們查詢。</span>
+                </p> 
+            </div>
+            </div>
+         
+         <div class="flex" style="display:flex;justify-content: center;padding-top: 30px;">
+            <a class="foot_botton_book ff-en-ci" href="/contact" >
+                <button type="button" class="btn btn-primary" style="font-family: arial, helvetica, sans-serif;">聯絡我們</button>
+            </a>
+            <a class="head_botton_book ff-en-ci" href="https://api.whatsapp.com/send/?phone=85266780511&text=%E6%88%91%E6%83%B3%E6%9F%A5%E8%A9%A2%E6%9B%B4%E5%A4%9A%E9%86%AB%E5%AD%B8%E7%BE%8E%E5%AE%B9%E8%B3%87%E8%A8%8A&app_absent=0">
+                <button type="button" class="btn btn-primary" style="font-family: arial, helvetica, sans-serif;">WhatsApp</button>
+            </a>
+        </div>
+         
+         
+         {/pboot:sort}
+         
+
+        </div>
+
+      </a>
+
+      </div>
+
+        {/pboot:list}
+
+         
+
+      </div>
+
+    </div>
+
+
+
+
+
+    
+
+
+
+	
+
+	</div>
